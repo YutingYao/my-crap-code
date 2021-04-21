@@ -32,6 +32,9 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+debug.log
+.virtual_documents
+.ipynb_checkpoints
 
 # Installer logs
 pip-log.txt
@@ -127,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+open jnb.bat
+lzl.pth
